@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sarvarbek</h1>
+<h1 align="center">Hi 👋, I'm Shohiojahon</h1>
 <h3 align="center">I'm Software Engineer from Uzbekistan.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarvarbekmuminjonov&label=Profile%20views&color=0e75b6&style=flat" alt="sarvarbekmuminjonov" /> </p>
@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **JavaScript,TypeScript,Node js**
 
-- 📫 How to reach me **smomimjonov20@gmail.com**
+- 📫 How to reach me **vgvvv2775@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
