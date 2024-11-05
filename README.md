@@ -11,6 +11,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sarvarbekmuminjonov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarvarbekmuminjonov" height="30" width="40" /></a>
+<a href="https://t.me/shohijakhoon1" target="blank"><img align="center" src="https://www.google.com/imgres?q=telegram&imgurl=https%3A%2F%2Fstatic1.anpoimages.com%2Fwordpress%2Fwp-content%2Fuploads%2F2022%2F03%2FTelegram-featured.jpg&imgrefurl=https%3A%2F%2Fwww.androidpolice.com%2Ftop-tips-using-telegram-safely-securely%2F&docid=T3huF_gc2pYC5M&tbnid=2y5Vg-k6EMN2VM&vet=12ahUKEwiShLXZosSJAxWdBhAIHemWMV0QM3oECGUQAA..i&w=9471&h=6017&hcb=2&ved=2ahUKEwiShLXZosSJAxWdBhAIHemWMV0QM3oECGUQAA" alt="shohijakhoon1" height="30" width="40" /></a>
 </p>
 
